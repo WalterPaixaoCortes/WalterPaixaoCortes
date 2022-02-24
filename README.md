@@ -13,7 +13,7 @@
 
 - 📝 Escrevo de vez em quando para o [Nightingale](https://nightingaledvs.com/)
 
-- 💬 Me procure se precisar de ajuda com **PowerBI, Tableau, Python, Busines Intelligence, Oracle, SQLServer, MySQL, PostgreSQL, Mongo, Cassandra**
+- 💬 Me procure se precisar de ajuda com **PowerBI, Tableau, Grafana, Python, Busines Intelligence, Oracle, SQLServer, MySQL, PostgreSQL, Mongo, Cassandra**
 
 - 📫 Contato **wpcortes@gmail.com**
 

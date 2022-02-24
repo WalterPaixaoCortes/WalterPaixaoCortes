@@ -1,6 +1,6 @@
 ### Oi, eu sou o Walter! 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/WalterPaixaoCortes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterPaixaoCortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterPaixaoCortes&layout=compact&langs_count=7&theme=dracula"/>

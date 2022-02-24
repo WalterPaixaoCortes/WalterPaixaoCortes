@@ -7,9 +7,9 @@
 
 - 🔭 Trabalhando atualmente na [Dell Technologies](https://www.dell.com)
 
-- 🌱 Sempre aprendendo sobre **Business Intelligence e UX**
+- 🌱 Sempre disposto a aprender sobre **Business Intelligence, Data-Driven Mindset e UX**
 
-- 👨‍💻 Meu Portfolio  [Business Intelligence](https://github.com/WalterPaixaoCortes/portfolio-bi)
+- 👨‍💻 Tenho um Portfolio em [Business Intelligence](https://github.com/WalterPaixaoCortes/portfolio-bi)
 
 - 📝 Escrevo de vez em quando para o [Nightingale](https://nightingaledvs.com/)
 

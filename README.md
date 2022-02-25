@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tenho um Portfolio em [Business Intelligence](https://github.com/WalterPaixaoCortes/portfolio-bi)
 
-- 📝 Escrevo de vez em quando para o [Nightingale](https://nightingaledvs.com/)
+- 📝 Escrevo de vez em quando para o [Nightingale](https://nightingaledvs.com/author/walter_cortez/)
 
 - 💬 Me procure se precisar de ajuda com **PowerBI, Tableau, Grafana, Python, Busines Intelligence, Oracle, SQLServer, MySQL, PostgreSQL, Mongo, Cassandra**
 
